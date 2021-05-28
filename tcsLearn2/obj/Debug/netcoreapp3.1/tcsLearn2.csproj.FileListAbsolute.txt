@@ -1,0 +1,13 @@
+D:\VS\tcsLearn2\tcsLearn2\obj\Debug\netcoreapp3.1\tcsLearn2.csproj.AssemblyReference.cache
+D:\VS\tcsLearn2\tcsLearn2\obj\Debug\netcoreapp3.1\tcsLearn2.AssemblyInfoInputs.cache
+D:\VS\tcsLearn2\tcsLearn2\obj\Debug\netcoreapp3.1\tcsLearn2.AssemblyInfo.cs
+D:\VS\tcsLearn2\tcsLearn2\obj\Debug\netcoreapp3.1\tcsLearn2.csproj.CoreCompileInputs.cache
+D:\VS\tcsLearn2\tcsLearn2\bin\Debug\netcoreapp3.1\tcsLearn2.exe
+D:\VS\tcsLearn2\tcsLearn2\bin\Debug\netcoreapp3.1\tcsLearn2.deps.json
+D:\VS\tcsLearn2\tcsLearn2\bin\Debug\netcoreapp3.1\tcsLearn2.runtimeconfig.json
+D:\VS\tcsLearn2\tcsLearn2\bin\Debug\netcoreapp3.1\tcsLearn2.runtimeconfig.dev.json
+D:\VS\tcsLearn2\tcsLearn2\bin\Debug\netcoreapp3.1\tcsLearn2.dll
+D:\VS\tcsLearn2\tcsLearn2\bin\Debug\netcoreapp3.1\tcsLearn2.pdb
+D:\VS\tcsLearn2\tcsLearn2\obj\Debug\netcoreapp3.1\tcsLearn2.dll
+D:\VS\tcsLearn2\tcsLearn2\obj\Debug\netcoreapp3.1\tcsLearn2.pdb
+D:\VS\tcsLearn2\tcsLearn2\obj\Debug\netcoreapp3.1\tcsLearn2.genruntimeconfig.cache
